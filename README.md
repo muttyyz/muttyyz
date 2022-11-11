@@ -2,6 +2,7 @@
 
 
 - Hi, my name is Enzo 😄
+- I'm a high school student😮‍💨✍️ 
 - I'm taking an Alura course 🙌💪
 - I'm learning to program 👍
 - I'm here to learn new programming languages 🛁
